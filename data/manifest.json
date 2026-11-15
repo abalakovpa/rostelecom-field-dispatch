@@ -1,0 +1,48 @@
+{
+  "seed": 20261113,
+  "synthetic": true,
+  "days": [
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23"
+  ],
+  "geography": {
+    "city": "Екатеринбург",
+    "city_relation": 6564910,
+    "locations": "provenance/real_locations.json"
+  },
+  "counts": {
+    "service_centers": 5,
+    "staff": 40,
+    "access_nodes": 20,
+    "buildings": 80,
+    "orders": 3500,
+    "orders_per_day": 350
+  },
+  "routing": {
+    "endpoint": "http://router.project-osrm.org",
+    "service": "table/v1/driving",
+    "coordinate_sha256": "ccb28bcb3f3ee2c44ef2d1fa31a625a306dd0c593104be877ff2a68652391fe9",
+    "parking_and_walking_sec": 180,
+    "data_version": null,
+    "rounding": "ceil; diagonal=0",
+    "point_count": 85,
+    "max_snap_distance_m": 74.55547644
+  },
+  "hashes": {
+    "service_centers.json": "0a2be74e192dcda149a81d1e927eb647ff5297278342a48434779e0710f09971",
+    "staff.json": "2e92fae68e15ab9d384f6c1d44c01ae73038ff7e3bddc58461b069a5a1b9b0f5",
+    "access_nodes.json": "6a2023d9e082993de090de18deee8e3fb5151dbf10b9d8c5eb827bf6a34f9951",
+    "work_types.csv": "8caff720bcde2e89d3070f6dc1566b9a551cb30bb285a3cda17bc412093f6f3b",
+    "travel_matrix.json": "cda0727f93563d9aa24b6cc6a79c5a72e3bfbd185ed1be4e348ca951bd801838",
+    "orders_train.json": "b83e4e2b7b41a9d663e55d77c3b6ab4a2ce52ab7845129a6e2fb0b8146c75ad5",
+    "events_example.json": "88c0fdf723af70999c95b530d92b2a5cc8da72ed2ea334adddc648961c184e66"
+  }
+}

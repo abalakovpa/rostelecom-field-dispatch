@@ -1,0 +1,62 @@
+[
+  {
+    "service_center_id": "SC-01",
+    "name": "Синтетический СЦ 1",
+    "address": "Екатеринбург, бульвар Культуры, 24",
+    "lat": 56.889476,
+    "lon": 60.58296151509241,
+    "opening_hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "restock_duration_min": 15
+  },
+  {
+    "service_center_id": "SC-02",
+    "name": "Синтетический СЦ 2",
+    "address": "Екатеринбург, Волгоградская улица, 224",
+    "lat": 56.8182993,
+    "lon": 60.54245345247326,
+    "opening_hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "restock_duration_min": 15
+  },
+  {
+    "service_center_id": "SC-03",
+    "name": "Синтетический СЦ 3",
+    "address": "Екатеринбург, Агрономическая улица, 31",
+    "lat": 56.7770302,
+    "lon": 60.60680685,
+    "opening_hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "restock_duration_min": 15
+  },
+  {
+    "service_center_id": "SC-04",
+    "name": "Синтетический СЦ 4",
+    "address": "Екатеринбург, Академическая улица, 28",
+    "lat": 56.851701899999995,
+    "lon": 60.65855745439099,
+    "opening_hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "restock_duration_min": 15
+  },
+  {
+    "service_center_id": "SC-05",
+    "name": "Синтетический СЦ 5",
+    "address": "Екатеринбург, улица Володарского, 2",
+    "lat": 56.838829450000006,
+    "lon": 60.5970285,
+    "opening_hours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "restock_duration_min": 15
+  }
+]

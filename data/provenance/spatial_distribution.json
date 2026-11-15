@@ -1,0 +1,22 @@
+{
+  "method": "occupied-cell sample independent of depots",
+  "sample_zones": {
+    "north": 20,
+    "northeast": 6,
+    "center": 6,
+    "west": 17,
+    "southwest": 18,
+    "south": 5,
+    "southeast": 2,
+    "east": 6
+  },
+  "centers": {
+    "SC-01": "north",
+    "SC-02": "west",
+    "SC-03": "south",
+    "SC-04": "east",
+    "SC-05": "center"
+  },
+  "homes": 80,
+  "service_centers": 5
+}
